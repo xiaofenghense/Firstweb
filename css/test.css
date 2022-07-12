@@ -1,0 +1,40 @@
+.col{
+    color:yellow;
+    text-align:center;
+}
+p{
+    text-indent:2em;
+    line-height: 2;
+    font-weight:bold;
+}
+div{
+    text-align:center;
+}
+a{
+    text-decoration: none;
+}
+div.pic{
+    border: 1px solid #000;
+    text-align:center;
+    width:768px;
+    height: 600px;
+    margin:0 auto;
+    background-color: bisque;
+    background-image: url(../图片/好康的/1.gif);
+    background-repeat:repeat-x;
+    background-position: right bottom;
+}
+div>span{
+    color:aquamarine;
+}
+.h{
+    color:blue;
+}
+
+h1{
+    color:red;
+}
+img{
+    width:400px;
+    height: 300px;
+}
